@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'designChallenges/designChallengesLibrary.dart';
-//import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 void main() {
   Paint.enableDithering = true;
